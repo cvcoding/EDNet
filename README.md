@@ -10,3 +10,10 @@ numpy
 scipy
 tqdm
 
+Superpixel number: 160
+
+Hidden layers of LSTM: 512-1024
+
+Learning rate: 0.001
+
+
